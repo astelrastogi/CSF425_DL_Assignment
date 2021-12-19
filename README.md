@@ -17,7 +17,7 @@ performance.
 4. BONUS: Attempt to explain, through an experiment of your own, why Skip Con-
 nections help or hurt.
 
-## Dataset used: 
+## Datasets used: 
 
 [MNIST](https://www.tensorflow.org/datasets/catalog/mnist)
 
