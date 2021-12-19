@@ -16,3 +16,16 @@ performance.
 
 4. BONUS: Attempt to explain, through an experiment of your own, why Skip Con-
 nections help or hurt.
+
+## Dataset used: 
+
+[MNIST Dataset](https://www.tensorflow.org/datasets/catalog/mnist)
+[CIFAR-10](https://www.tensorflow.org/datasets/catalog/cifar10)
+
+## Contributors:
+
+[Harsha Vishak](https://github.com/harshaVishak) : 2019A7PS0079G
+
+[Aastha Rastogi](https://github.com/astelrastogi) : 2019A7PS0175G
+
+[Athreya Krishnan](https://github.com/athu15) : 2018B4A70809G
