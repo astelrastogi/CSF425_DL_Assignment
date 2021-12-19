@@ -19,7 +19,8 @@ nections help or hurt.
 
 ## Dataset used: 
 
-[MNIST Dataset](https://www.tensorflow.org/datasets/catalog/mnist)
+[MNIST](https://www.tensorflow.org/datasets/catalog/mnist)
+
 [CIFAR-10](https://www.tensorflow.org/datasets/catalog/cifar10)
 
 ## Contributors:
